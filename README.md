@@ -1,5 +1,23 @@
 # ![NGI-ExoSeq](https://raw.githubusercontent.com/SciLifeLab/NGI-ExoSeq/master/docs/images/NGI-ExoSeq_logo.png)
 
+# This pipeline has moved
+
+This pipeline has been moved to the new `nf-core` GitHub organisation. You can now
+find it here:
+
+### https://github.com/nf-core/ExoSeq
+
+This repository will be archived to maintain the release version for future
+reproducibility, to allow reruns.
+
+If you have any questions, please get in touch: support@ngisweden.se
+
+// Phil Ewels, 2018-04-18
+
+---
+
+
+
 ## Introduction
 
 NGI-ExoSeq is a bioinformatics package that performs best-practice analysis pipeline for Exome Sequencing data at the [National Genomics Infastructure](https://ngisweden.scilifelab.se/)
@@ -36,7 +54,7 @@ The NGI-ExoSeq pipeline comes with documentation about the pipeline, found in th
 The pipeline was initally developed by Senthilkumar Panneerselvam ([@senthil10](https://github.com/senthil10)) with a little help from Phil Ewels ([@ewels](https://github.com/ewels)) and has been adapted by Alex Peltzer ([@apeltzer](https://github.com/apeltzer)) and Marie Gauder ([@mgauder](https://github.com/mgauder)) to our needs at QBiC, Tübingen, Germany.
 
 In addition, we would like to recognise:
-* Developers at [SciLifeLab](http://www.scilifelab.se/) in Stockholm, Sweden 
+* Developers at [SciLifeLab](http://www.scilifelab.se/) in Stockholm, Sweden
 * Developers at [National Genomics Infrastructure](https://github.com/orgs/NationalGenomicsInfrastructure/people) for their help, supports and suggestions
 * [UPPMAX](http://www.uppmax.uu.se/) team
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html#) team
